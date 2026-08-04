@@ -5,9 +5,15 @@
 
 This project is a plugin that works in Ableton.  
 Its main function is to download media from a link, extract the audio, check the BPM, and import it into a track.
-# Important
-- **Min-Ableton Version**  
-  `12.0.5`
+
+## 요구 사항 / Requirements
+
+- **Ableton Live 12.0.5 이상**
+- **Ableton Live 12 Suite 또는 Max for Live 사용 가능 버전**
+
+- **Ableton Live 12.0.5 or later**
+- **Ableton Live 12 Suite or a version with Max for Live**
+
 ## 지원되는 사이트
 
 - **YouTube**  
