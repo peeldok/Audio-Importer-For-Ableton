@@ -6,8 +6,10 @@ This project is a plugin that works in Ableton. Its main function is to download
 Youtube : youtube.com
 soundcloud : soundcloud.com
 direct link : http(s)://exmaple.com/data/example.wav, ftp://exmaple.com/data/example.wav
+지원사이트는 계속 추가될 예정입니다.
 
 Supported sites:
 Youtube : youtube.com
 soundcloud : soundcloud.com
 direct link : http(s)://exmaple.com/data/example.wav, ftp://exmaple.com/data/example.wav
+Support sites will continue to be added.
