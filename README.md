@@ -5,7 +5,9 @@
 
 This project is a plugin that works in Ableton.  
 Its main function is to download media from a link, extract the audio, check the BPM, and import it into a track.
-
+# Important
+- **Min-Ableton Version**  
+  `12.0.5`
 ## 지원되는 사이트
 
 - **YouTube**  
